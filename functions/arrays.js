@@ -92,3 +92,78 @@ let frescoTube = [
         }]
     }
 ]
+
+
+
+var ourName=[["nagaraju",23],["sri",68]];
+let house=[(123+45),23];
+console.log(ourName,house);
+
+
+
+var ourName=[25,50,75];
+var ourName=ourName;
+console.log(ourName[1]);
+
+
+var ourName=[51,45,65];
+ourName[1]=67;
+console.log(ourName);
+
+var myName=["nuwgswuu",24,"wsdfgh"];
+myName[2]=78;
+console.log(myName);
+
+
+var myName=[[1,2,3],[2,4,6],[5,6,7],[3,5,7]];
+mydata=myName[2][2];
+console.log(mydata);
+
+
+
+
+var lucky=[[1,2,3],[3,4,5],[5,6,7],[2,4,5]];
+mydata=lucky[2][0];
+console.log(mydata);
+
+
+
+
+
+var ourArray=["nagaraju","sdfh","erty"]
+ourArray.push(["naga",23]);
+console.log(ourArray);
+
+
+
+
+var myName=["kill","rocky","gun"]
+myName.push(["fish",45]);
+console.log(myName);
+
+
+
+let jill=[12,["dfghj"],"rtyu"]
+jill.pop(["dfgg",45]);
+console.log(jill);
+
+
+
+let jocky=["dfghj",4344,'dfghj']
+jocky.shift([12,"dfghj"]);
+console.log(jocky);
+
+
+let fisher=["sdfghjk","wertyui","zxcvbn"]
+fisher.unshift([67,78]);
+console.log(fisher);
+
+
+
+
+var singam=[["cereal",34] ,["milk",45] ,["banana",89] ,["juice",23] ,["eggs",12]]
+console.log(singam);
+
+let bil=[["fghj",(23+3),{name:"navigator",age:23},["hjsdfjhebeh"]]]
+let dish=[{name:"raju",colour:"black",age:23}]
+console.log(bil,dish);
