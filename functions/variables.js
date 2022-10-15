@@ -77,3 +77,51 @@ let mmm=["qwert",12,23,(23+25),{name:"raju",age:43,colour:"black"}]
 console.log(honey,nik,mmm);
 
 
+
+var fistName="nagaraju";
+fistName=23;
+console.log(fistName);
+
+
+
+let rockStar=(243+53-56)+(23-21);
+var hill=("raju")+("jehehe")
+console.log(hill);
+
+
+var nameLength=23;
+nameLength="nagaraju";
+nameLength=nameLength.length;
+console.log(nameLength);
+
+
+
+var fisherMan=2;
+fisherMan="anjaiah";
+fisherMan=fisherMan[2];
+console.log(fisherMan);
+
+
+
+let bullBoy=8;
+bullBoy="dfghjfghfghjk";
+bullBoy=bullBoy[5];
+console.log(bullBoy);
+
+
+
+var ourName="free classes fesility.";
+var myName="teacher room.";
+console.log(ourName,myName);    
+
+
+
+var jill=((25+24)+{45:33}+(22*11))
+let boy="solo boy";
+console.log(jill,boy);
+
+
+var high=["asd",23+3,{age:23}]
+let you="sdfghh"
+console.log(high,you);
+

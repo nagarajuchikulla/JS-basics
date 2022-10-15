@@ -29,3 +29,22 @@ gender:"male"}],
 yy:765
 }
 console.log(hunu);
+
+
+
+let tin={
+    name:"nag",
+    age:23,
+    hight:[5.4,"qwe",[23-5],(55/11)],
+  colour:"black"  
+}
+console.log(tin);
+
+
+let queen={
+    name:"madhu",
+    age:21,
+    food:["fish",(23+5),[8683/34]],
+    movie:"dangal"
+}
+console.log(queen);
