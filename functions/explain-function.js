@@ -1,23 +1,47 @@
+// var inLine = function (nag1, nag2) {
+//     let jull = nag1 + nag2;
+//     return jull;
+// }
+// console.log(inLine(5, 6));
 
-let qwertyu = "nagaraju";
+// let outLine = function (firstName, num2) {
+//     let nameVariable = firstName * num2;
+//     return nameVariable;
+// }
+// console.log("num", outLine(8, 8));
 
-function someName(value1, value2) {
-    // here function logics
+// let variable = function (firstName, num2) {
+//     let basicVariable = firstName - num2;
+//     return basicVariable;
+// }
+// console.log("var", variable(25, 20));
 
 
-    console.log(value1, value2);
+var outSide = function (firstName, lastName) {
+    if (firstName == "sriman" && lastName == "adaka" && false || 0) {
+        console.log("sriman is entered");
+    } else if (firstName == "nag") {
+        console.log("nag is entered");
+    } else if (firstName == "mahesh") {
+        console.log("mahesh is entered");
+    }
+    else {
+        console.log("some one is entered");
 
-    let asdfghj = 90 + value1
-
-
-
-    return value1;
-
-    // Close: here function logics
+    }
 }
-let qwertertyuyu = "manu" +"venkate";
-console.log("manu",qwertertyuyu);
+outSide("sriman", "adaka");
 
 
-
-console.log(someName(qwertertyuyu, 10));
+let inLine = function (firstName, lastName) {
+    if (firstName == "jock" && lastName == "chivukula" && false || 0) {
+        console.log("jock is entered");
+    } else if (firstName == "nag") {
+        console.log("nag is entered");
+    } else if (lastName == "chivukula" && false || "") {
+        console.log("chivukula is entered");
+    } else {
+        console.log("some one is entered");
+    }
+}
+inLine("jock", "chivukula");
