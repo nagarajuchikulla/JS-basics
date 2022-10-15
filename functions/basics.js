@@ -86,7 +86,9 @@ shiva(30,6);
 
 
 
-
+var firstName="nagaraju";
+firstName=23;
+console.log(firstName);
 
 
 
